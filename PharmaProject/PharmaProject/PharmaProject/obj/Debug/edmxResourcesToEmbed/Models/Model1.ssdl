@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="pharmadbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="adlogin">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="varchar" MaxLength="50" />
+    <Property Name="Password" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="capsule">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="company_name" Type="varchar" MaxLength="50" />
+    <Property Name="output" Type="varchar" MaxLength="255" />
+    <Property Name="size" Type="varchar" MaxLength="50" />
+    <Property Name="dimension" Type="varchar" MaxLength="50" />
+    <Property Name="shipping_weight" Type="varchar" MaxLength="50" />
+    <Property Name="Power" Type="varchar" MaxLength="50" />
+    <Property Name="Price " Type="varchar" MaxLength="50" />
+    <Property Name="pic" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Contact">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Contact" Type="int" />
+    <Property Name="Message" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Job">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Father_Name" Type="varchar" MaxLength="50" />
+    <Property Name="Email_Address" Type="varchar" MaxLength="255" />
+    <Property Name="Phone_number" Type="int" />
+    <Property Name="City" Type="varchar" MaxLength="50" />
+    <Property Name="State" Type="varchar" MaxLength="50" />
+    <Property Name="DOB" Type="varchar" MaxLength="50" />
+    <Property Name="Qualification " Type="varchar" MaxLength="50" />
+    <Property Name="Education" Type="varchar" MaxLength="50" />
+    <Property Name="Resume" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Liquid">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Air_pressure" Type="varchar" MaxLength="50" />
+    <Property Name="Air_volume" Type="varchar" MaxLength="50" />
+    <Property Name="Filling_speed" Type="varchar" MaxLength="50" />
+    <Property Name="Filling_range " Type="varchar" MaxLength="50" />
+    <Property Name="capacity " Type="varchar" MaxLength="50" />
+    <Property Name="Price" Type="varchar" MaxLength="50" />
+    <Property Name="img" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Comapny" Type="varchar" MaxLength="50" />
+    <Property Name="Address" Type="varchar" MaxLength="50" />
+    <Property Name="City" Type="varchar" MaxLength="50" />
+    <Property Name="State" Type="varchar" MaxLength="50" />
+    <Property Name="Postal" Type="varchar" MaxLength="50" />
+    <Property Name="Country" Type="varchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Phone" Type="int" />
+    <Property Name="Comments" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Tablets">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Model" Type="int" />
+    <Property Name="Dies" Type="varchar" MaxLength="50" />
+    <Property Name="Max_pressure" Type="varchar" MaxLength="50" />
+    <Property Name="Max_diameter" Type="varchar" MaxLength="50" />
+    <Property Name="Max_depth" Type="varchar" MaxLength="50" />
+    <Property Name="Production_capacity" Type="varchar" MaxLength="50" />
+    <Property Name="machine_size" Type="varchar" MaxLength="50" />
+    <Property Name="net_weight" Type="varchar" MaxLength="50" />
+    <Property Name="power" Type="varchar" MaxLength="50" />
+    <Property Name="Price " Type="varchar" MaxLength="50" />
+    <Property Name="photo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="pharmadbModelStoreContainer">
+    <EntitySet Name="adlogin" EntityType="Self.adlogin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="capsule" EntityType="Self.capsule" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Contact" EntityType="Self.Contact" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Job" EntityType="Self.Job" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Liquid" EntityType="Self.Liquid" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Table" EntityType="Self.Table" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tablets" EntityType="Self.Tablets" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

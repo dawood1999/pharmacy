@@ -1,0 +1,298 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<!-- Mirrored from webdesign-finder.com/html/pharma/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 14 Nov 2020 12:34:33 GMT -->
+<head>
+    <title>Pharma</title>
+    <meta charset="utf-8">
+    <!--[if IE]>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <![endif]-->
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/animations.css">
+    <link rel="stylesheet" href="~/css/fonts.css">
+    <link rel="stylesheet" href="~/css/main.css" class="color-switcher-link">
+    <link rel="stylesheet" href="~/css/shop.css">
+    <script src="~/js/vendor/modernizr-2.6.2.min.js"></script>
+    <!--[if lt IE 9]>
+        <script src="js/vendor/html5shiv.min.js"></script>
+        <script src="js/vendor/respond.min.js"></script>
+        <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <![endif]-->
+<script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+    <!--[if lt IE 9]>
+         <div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+     <![endif]-->
+    <div class="preloader">
+        <div class="preloader_image"></div>
+    </div>
+    <!-- search modal -->
+    <div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">
+                <i class="rt-icon2-cross2"></i>
+            </span>
+        </button>
+        <div class="widget widget_search">
+            <form method="get" class="searchform search-form form-inline" action="http://webdesign-finder.com/html/pharma/">
+                <div class="form-group bottommargin_0"> <input type="text" value="" name="search" class="form-control" placeholder="Search keyword" id="modal-search-input"> </div> <button type="submit" class="theme_button">Search</button>
+            </form>
+        </div>
+    </div>
+    <!-- Unyson messages modal -->
+    <div class="modal fade" tabindex="-1" role="dialog" id="messages_modal">
+        <div class="fw-messages-wrap ls with_padding">
+            <!-- Uncomment this UL with LI to show messages in modal popup to your user: -->
+            <!--
+            <ul class="list-unstyled">
+                <li>Message To User</li>
+            </ul>
+            -->
+        </div>
+    </div>
+    <!-- eof .modal -->
+    <!-- wrappers for visual page editor and boxed version of template -->
+    <div id="canvas">
+        <div id="box_wrapper">
+            <!-- template sections -->
+            </section>
+            <section class="page_toplogo table_section table_section_md ls section_padding_top_25 section_padding_bottom_25">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 text-center text-md-left">
+                            <class="logo top_logo">
+                                <img src="~/images/logo.png" alt="">
+                            
+                        </div>
+                        <div class="col-md-9 text-center text-md-right">
+                            <div class="inline-teasers-wrap">
+                                <div class="teaser small-teaser media">
+                                    <div class="media-left media-middle">
+                                        <div class="teaser_icon size_small border_icon highlight2 rounded"> <i class="rt-icon2-pen"></i> </div>
+                                    </div>
+                                    <div class="media-body media-middle">
+                                        <h4>03172201848</h4>
+                                        <p class="greylinks fontsize_12"> <a href="mailto:Navedsmarrt4@gmail.com">NavedSmart4@gmail.com</a> </p>
+                                    </div>
+                                </div>
+                                <div class="teaser small-teaser media">
+                                    <div class="media-left media-middle">
+                                        <div class="teaser_icon size_small border_icon highlight2 rounded"> <i class="rt-icon2-map-pin"></i> </div>
+                                    </div>
+                                    <div class="media-body media-middle">
+                                        <h4>Dilpasand Street</h4>
+                                        <p class="greylinks fontsize_12"> City, Karachi 75500 </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <header class="page_header header_color toggler_left">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12 display_table">
+                            <div class="header_mainmenu display_table_cell">
+                                <!-- main nav start -->
+                                <nav class="mainmenu_wrapper">
+                                    <ul class="mainmenu nav sf-menu">
+                                       
+                                    <!---  job---->
+                                 
+                                    @if (Session["admin"] != null)
+                                    {
+                                        <li>
+                                            @Html.ActionLink("ADD PRODUCT", "product", "Home")
+                                            <ul>
+                                                <!-- features -->
+                                                <!-- eof features -->
+                                              <li>@Html.ActionLink("CAPSULES", "Create", "capsules")</li>
+                                                <li>
+                                                    @Html.ActionLink("TABLETS", "Create", "Tablets")</li>
+                                                <li>
+                                                    @Html.ActionLink("LIQUID FILLING", "Create", "Liquids")
+
+                                                </li>
+                                            </ul>
+                                        </li>
+
+    <li>
+        @Html.ActionLink("CONTACT US", "Index", "Contacts")
+
+    </li>
+
+    <li>
+        @Html.ActionLink("JOB", "joblist", "Home")
+
+    </li>
+                                        
+    <li>
+        @Html.ActionLink("Quote", "Index", "Tables")
+
+    </li>
+                                         <li>
+                                        @Html.ActionLink("Logout","logout","Admin")
+                                    </li>
+                                    }
+                                    else
+	{
+	                                 <li class="active">
+
+
+                                            @Html.ActionLink("HOME", "Create", "Home")
+
+                                        </li>
+                                       
+
+                                    <!-- eof pages -->
+                                    <li>
+                                        @Html.ActionLink("PIPELINE", "pipline", "Home")
+
+                                    </li>
+
+
+                                    <!-- eof features -->
+                                    <!-- gallery -->
+                                    <li>
+                                        @Html.ActionLink("GALLERY", "Gallery", "Home")
+                                    </li>
+
+                                    <!-- eof Gallery -->
+
+                                    <li>
+                                        @Html.ActionLink("QUOTE US", "Create", "Tables")
+
+                                    </li>
+	
+                                        <li>
+                                            <a href="#">PRODUCT</a> 
+                                            <ul>
+                                                <!-- features -->
+                                                <!-- eof features -->
+                                                <li>@Html.ActionLink("CAPSULES", "Index", "capsules")</li>
+                                                <li>
+                                                    @Html.ActionLink("TABLETS", "Index", "Tablets")
+                                                </li>
+                                                <li>
+                                                    @Html.ActionLink("LIQUID FILLING", "Index", "Liquids")
+
+                                                </li>
+                                            </ul>
+                                        </li>
+                                           <li>
+                                        @Html.ActionLink("JOB", "job", "Home")
+
+                                    </li>
+                                    <!--- eof job---->
+                                    <!--- about---->
+
+                                    <li>
+                                        @Html.ActionLink("ABOUT US", "about", "Home")
+
+                                    </li>
+                                    <!--- eof about---->
+                                    <!-- contacts -->
+                                    <li>
+                                        @Html.ActionLink("CONTACT US", "Create", "Contacts")
+
+                                    </li>
+                                        }
+                                    <!-- eof contacts -->
+                                    </ul>
+                                  
+                                </nav>
+                                <!-- eof main nav -->
+                                <!-- header toggler --><span class="toggle_menu"><span></span></span>
+                            </div>
+                            <div class="header_right_buttons cs display_table_cell text-right">
+                                <ul class="inline-list menu greylinks">
+                                   
+                                    <li>
+                                        <a href="/Admin/Index" class="header-button">
+                                            <i class="fa fa-user" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                  
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <div class="body-content">
+                @RenderBody()
+                <hr />
+                <footer class="page_footer ds color section_padding_top_100 section_padding_bottom_65 table_section">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-3 col-sm-6">
+                                <div class="widget widget_text">
+                                 <a class = "logo vertical_logo bottommargin_20">
+                                     </a>
+                                    <img src="images/logo-light.png" alt="">
+                                    
+                                    <p>Lorem ipsum dlor amet, consetetur sadipscing esed dia nonumy eirmod tempor invidunt.</p>
+                                    <p class="darklinks"> <a class="social-icon soc-facebook" href="#" title="Facebook"></a> <a class="social-icon soc-twitter" href="#" title="Twitter"></a> <a class="social-icon soc-google" href="#" title="Twitter"></a> <a class="social-icon soc-linkedin" href="#" title="Twitter"></a>									<a class="social-icon soc-youtube" href="#" title="Youtube"></a> </p>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="widget widget_text topmargin_25">
+                                    <h4 class="widget-title">Contact Us</h4>
+                                    <div class="media">
+                                        <div class="media-left rightpadding_10"> <i class="fa fa-map-marker highlight" aria-hidden="true"></i> </div>
+                                        <div class="media-body"> 482 Charter Street, Kansas City, KS, 66223 </div>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left rightpadding_10"> <i class="fa fa-phone highlight" aria-hidden="true"></i> </div>
+                                        <div class="media-body"> 0 (800) 123 4567 </div>
+                                    </div>
+                                    <div class="media">
+                                        <div class="media-left rightpadding_10"> <i class="fa fa-pencil highlight" aria-hidden="true"></i> </div>
+                                        <div class="media-body highlight2links"> <a href="mailto:pharmacom@example.com">pharmacom@example.com</a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="widget widget_twitter topmargin_25">
+                                    <h4 class="widget-title">Twitter Widget</h4>
+                                    <div class="twitter highlight2links"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 text-center text-sm-left">
+                                <div class="widget widget_instagram topmargin_25">
+                                    <h4 class="widget-title">Instagram</h4>
+                                    <div class="instafeed"> </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+                <section class="ds color darker page_copyright section_padding_15">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12 text-center">
+                                <p class="fontsize_12">&copy; Copyright 2017. All Rights Reserved.</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <!-- eof #box_wrapper -->
+        </div>
+        <!-- eof #canvas -->
+        <script src="~/js/compressed.js"></script>
+        <script src="~/js/main.js"></script>
+        <script src="~/js/switcher.js"></script>
+</body>
+</html>

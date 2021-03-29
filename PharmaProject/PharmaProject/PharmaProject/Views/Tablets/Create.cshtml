@@ -1,0 +1,166 @@
+﻿@model PharmaProject.Models.Tablets
+
+@{
+    ViewBag.Title = "Create";
+}
+
+
+
+@using (Html.BeginForm("Create", "Tablets", FormMethod.Post, new { @enctype = "multipart/form-data" })) 
+{
+    @Html.AntiForgeryToken()
+
+    <head>
+        <!-- Required meta tags-->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Colorlib Templates">
+        <meta name="author" content="Colorlib">
+        <meta name="keywords" content="Colorlib Templates">
+        <!-- Title Page-->
+        <title>Au Register Forms by Colorlib</title>
+        <!-- Icons font CSS-->
+        <link href="~/quote/vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+        <link href="~/quote/vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+        <!-- Font special for pages-->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+        <!-- Vendor CSS-->
+        <link href="~/quote/vendor/select2/select2.min.css" rel="stylesheet" media="all">
+        <link href="~/quote/vendor/datepicker/daterangepicker.css" rel="stylesheet" media="all">
+        <!-- Main CSS-->
+        <link href="~/quote/css/main.css" rel="stylesheet" media="all">
+    </head>
+
+    <body>
+
+        <div class="wrapper wrapper--w790">
+            <div class="card card-5">
+                <div class="card-heading">
+                    <h2 class="title">Add Tablets</h2>
+                </div>
+                <div class="card-body">
+                    <form method="POST">
+
+                        <div class="form-row">
+                            <div class="name">Name</div>
+                            <div class="value">
+                                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "input--style-6" } })
+                                @Html.ValidationMessageFor(model => model.Name, null, new { @class = "form-control" })
+
+
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Model</div>
+                            <div class="value">
+                                @Html.EditorFor(model => model.Model, new { htmlAttributes = new { @class = "input--style-6" } })
+                                @Html.ValidationMessageFor(model => model.Model, null, new { @class = "form-control" })
+
+
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Dies</div>
+                            <div class="value">
+                                @Html.EditorFor(model => model.Dies, new { htmlAttributes = new { @class = "input--style-6" } })
+                                @Html.ValidationMessageFor(model => model.Dies, null, new { @class = "form-control" })
+
+
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Max Pressure</div>
+                            <div class="value">
+                                @Html.EditorFor(model => model.Max_pressure, new { htmlAttributes = new { @class = "input--style-6" } })
+                                @Html.ValidationMessageFor(model => model.Max_pressure, null, new { @class = "form-control" })
+
+
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Max Diameter</div>
+                            <div class="value">
+                                @Html.EditorFor(model => model.Max_diameter, new { htmlAttributes = new { @class = "input--style-6" } })
+                                @Html.ValidationMessageFor(model => model.Max_diameter, null, new { @class = "form-control" })
+
+
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Max Depth</div>
+                            <div class="value">
+                                @Html.EditorFor(model => model.Max_depth, new { htmlAttributes = new { @class = "input--style-6" } })
+                                @Html.ValidationMessageFor(model => model.Max_depth, null, new { @class = "form-control" })
+
+
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Production Capacity</div>
+                            <div class="value">
+                                @Html.EditorFor(model => model.Production_capacity, new { htmlAttributes = new { @class = "input--style-6" } })
+                                @Html.ValidationMessageFor(model => model.Production_capacity, null, new { @class = "form-control" })
+
+
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Machine Size</div>
+                            <div class="value">
+                                @Html.EditorFor(model => model.machine_size, new { htmlAttributes = new { @class = "input--style-6" } })
+                                @Html.ValidationMessageFor(model => model.machine_size, null, new { @class = "form-control" })
+
+
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Net Weight</div>
+                            <div class="value">
+                                @Html.EditorFor(model => model.net_weight, new { htmlAttributes = new { @class = "input--style-6" } })
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Power</div>
+                            <div class="value">
+                                @Html.EditorFor(model => model.power, new { htmlAttributes = new { @class = "input--style-6" } })
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="name">Upload Image</div>
+                            <div class="value">
+                                <div class="input-group js-input-file">
+                                    <input class="input-file" type="file" name="Image3">
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div>
+                            <button class="btn btn--radius-2 btn--red" type="submit">ADD</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Jquery JS-->
+        <script src="~/quote/vendor/jquery/jquery.min.js"></script>
+        <!-- Vendor JS-->
+        <script src="~/quote/vendor/select2/select2.min.js"></script>
+        <script src="~/quote/vendor/datepicker/moment.min.js"></script>
+        <script src="~/quote/vendor/datepicker/daterangepicker.js"></script>
+        <!-- Main JS-->
+        <script src="~/quote/js/global.js"></script>
+    </body>
+}
+

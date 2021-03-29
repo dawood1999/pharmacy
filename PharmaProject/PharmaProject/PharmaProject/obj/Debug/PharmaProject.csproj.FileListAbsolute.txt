@@ -1,0 +1,488 @@
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\PharmaProject.dll.config
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\PharmaProject.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\PharmaProject.pdb
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\csc.exe
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\csc.exe.config
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\csc.rsp
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\csi.exe
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\csi.exe.config
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\csi.rsp
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.AppContext.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Console.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\vbc.exe
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\vbc.exe.config
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\vbc.rsp
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\System.Web.Helpers.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\System.Web.Mvc.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\System.Web.Razor.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\System.Web.Webpages.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\System.Web.Razor.xml
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\System.Web.Webpages.xml
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\System.Web.Helpers.xml
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\System.Web.Mvc.xml
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\obj\Debug\PharmaProject.csprojAssemblyReference.cache
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\obj\Debug\PharmaProject.csproj.CoreCompileInputs.cache
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\obj\Debug\PharmaProject.csproj.CopyComplete
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\obj\Debug\PharmaProject.dll
+C:\Users\M.R. Computers\source\repos\PharmaProject\PharmaProject\obj\Debug\PharmaProject.pdb
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\PharmaProject.dll.config
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\PharmaProject.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\PharmaProject.pdb
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\csc.exe
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\csc.exe.config
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\csc.rsp
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\csi.exe
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\csi.exe.config
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\csi.rsp
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.AppContext.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Console.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\vbc.exe
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\vbc.exe.config
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\vbc.rsp
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\EntityFramework.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\EntityFramework.SqlServer.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\System.Web.Helpers.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\System.Web.Mvc.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\System.Web.Razor.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\System.Web.Webpages.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\EntityFramework.xml
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\EntityFramework.SqlServer.xml
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\System.Web.Razor.xml
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\System.Web.Webpages.xml
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\System.Web.Helpers.xml
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\System.Web.Mvc.xml
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\obj\Debug\PharmaProject.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\obj\Debug\PharmaProject.dll
+C:\Users\asp.APTECH\Desktop\PharmaProject\PharmaProject\obj\Debug\PharmaProject.pdb
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\PharmaProject.dll.config
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\PharmaProject.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\PharmaProject.pdb
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\csc.exe
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\csc.exe.config
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\csc.rsp
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\csi.exe
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\csi.exe.config
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\csi.rsp
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.AppContext.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Console.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\vbc.exe
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\vbc.exe.config
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\vbc.rsp
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\EntityFramework.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\EntityFramework.SqlServer.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\System.Web.Helpers.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\System.Web.Mvc.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\System.Web.Razor.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\System.Web.Webpages.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\EntityFramework.xml
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\EntityFramework.SqlServer.xml
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\System.Web.Razor.xml
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\System.Web.Webpages.xml
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\System.Web.Helpers.xml
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\System.Web.Mvc.xml
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\obj\Debug\PharmaProject.dll
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\obj\Debug\PharmaProject.pdb
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\PharmaProject.dll.config
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\PharmaProject.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\PharmaProject.pdb
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\csc.exe
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\csc.exe.config
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\csc.rsp
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\csi.exe
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\csi.exe.config
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\csi.rsp
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.AppContext.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Console.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\vbc.exe
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\vbc.exe.config
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\vbc.rsp
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\EntityFramework.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\EntityFramework.SqlServer.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\System.Web.Helpers.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\System.Web.Mvc.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\System.Web.Razor.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\System.Web.Webpages.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\EntityFramework.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\EntityFramework.SqlServer.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\System.Web.Razor.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\System.Web.Webpages.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\System.Web.Helpers.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\System.Web.Mvc.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\obj\Debug\PharmaProject.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject\PharmaProject\obj\Debug\PharmaProject.pdb
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\PharmaProject.dll.config
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\PharmaProject.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\PharmaProject.pdb
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\csc.exe
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\csc.exe.config
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\csc.rsp
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\csi.exe
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\csi.exe.config
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\csi.rsp
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.AppContext.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Console.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\vbc.exe
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\vbc.exe.config
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\vbc.rsp
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\EntityFramework.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\EntityFramework.SqlServer.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\System.Web.Helpers.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\System.Web.Mvc.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\System.Web.Razor.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\System.Web.Webpages.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\EntityFramework.xml
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\EntityFramework.SqlServer.xml
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\System.Web.Razor.xml
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\System.Web.Webpages.xml
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\System.Web.Helpers.xml
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\System.Web.Mvc.xml
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\obj\Debug\PharmaProject.csprojResolveAssemblyReference.cache
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\obj\Debug\PharmaProject.dll
+C:\Users\ancd\Desktop\PharmaProject\PharmaProject\obj\Debug\PharmaProject.pdb
+C:\Users\ancd\Downloads\PharmaProject\PharmaProject\obj\Debug\PharmaProject.csprojResolveAssemblyReference.cache
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\PharmaProject.dll.config
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\PharmaProject.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\PharmaProject.pdb
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\csc.exe
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\csc.exe.config
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\csc.rsp
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\csi.exe
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\csi.exe.config
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\csi.rsp
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.AppContext.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Console.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\vbc.exe
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\vbc.exe.config
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\vbc.rsp
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\EntityFramework.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\EntityFramework.SqlServer.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Helpers.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Mvc.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Razor.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Webpages.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\EntityFramework.xml
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\EntityFramework.SqlServer.xml
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Razor.xml
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Webpages.xml
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Helpers.xml
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Mvc.xml
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\obj\Debug\PharmaProject.dll
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\obj\Debug\PharmaProject.pdb
+C:\Users\ancd\Downloads\PharmaProject2\PharmaProject\obj\Debug\PharmaProject.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\PharmaProject.dll.config
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\PharmaProject.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\PharmaProject.pdb
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\csc.exe
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\csc.exe.config
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\csc.rsp
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\csi.exe
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\csi.exe.config
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\csi.rsp
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.AppContext.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Console.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\vbc.exe
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\vbc.exe.config
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\vbc.rsp
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\EntityFramework.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\EntityFramework.SqlServer.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Helpers.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Mvc.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Razor.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Webpages.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\EntityFramework.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\EntityFramework.SqlServer.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Razor.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Webpages.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Helpers.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\System.Web.Mvc.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\obj\Debug\PharmaProject.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\obj\Debug\PharmaProject.dll
+C:\Users\asp.APTECH\Downloads\PharmaProject2\PharmaProject\obj\Debug\PharmaProject.pdb

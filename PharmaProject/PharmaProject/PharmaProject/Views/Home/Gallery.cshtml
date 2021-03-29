@@ -1,0 +1,288 @@
+﻿@{
+    ViewBag.Title = "Gallery";
+}
+
+<section class="page_breadcrumbs ds color parallax section_padding_top_75 section_padding_bottom_75">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <h2>Gallery </h2>
+                <ol class="breadcrumb highlightlinks">
+                    <li>
+                        @Html.ActionLink("HOME", "Create", "Home")
+
+                    </li>
+                    <li> <a href="#">Gallery</a> </li>
+                    <li class="active">Gallery </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="ls page_portfolio section_padding_top_150 section_padding_bottom_150">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="filters isotope_filters greylinks"> <a href="#" class="selected" data-filter="*">All</a> <a href="#" data-filter=".medical">Medical</a> <a href="#" data-filter=".clinic">Clinic</a> <a href="#" data-filter=".dental">Dental</a> <a href="#" data-filter=".pharmacists">Pharmacists</a>								</div>
+                <div class="isotope_container isotope row masonry-layout columns_margin_bottom_20" data-filters=".isotope_filters">
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12 medical">
+                        <article class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
+                            <div class="item-media">
+                                <img src="~/images/gallery/01.jpg" alt="">
+                                <div class="media-links">
+                                    <div class="links-wrap"> <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="~/images/gallery/01.jpg"></a> </div>
+                                </div>
+                            </div>
+                            <div class="item-content">
+                                <header class="entry-header">
+                                    <div class="categories-links highlight2links"> <a class="#">Medical</a> </div>
+                                    <h4 class="entry-title topmargin_0">
+                                        <a class="#">
+                                            Morbi euismod
+                                        </a>
+                                    </h4>
+                                </header>
+                                <p> Vivamus enim justo, suscipit laoreet odio id, interdum egestas sapien. Phasellus ultricies felis lectus, sed condimentum libero condimentum eget. </p>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12 clinic">
+                        <article class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
+                            <div class="item-media">
+                                <img src="~/images/gallery/02.jpg" alt="">
+                                <div class="media-links">
+                                    <div class="links-wrap"> <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="~/images/gallery/02.jpg"></a> </div>
+                                </div>
+                            </div>
+                            <div class="item-content">
+                                <header class="entry-header">
+                                    <div class="categories-links highlightlinks"> <a class="#">Clinic</a> </div>
+                                    <h4 class="entry-title topmargin_0">
+                                        <a class="#">
+                                            Vestibulum libero
+                                        </a>
+                                    </h4>
+                                </header>
+                                <p> Vivamus enim justo, suscipit laoreet odio id, interdum egestas sapien. Phasellus ultricies felis lectus, sed condimentum libero condimentum eget. </p>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12 dental">
+                        <article class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
+                            <div class="item-media">
+                                <img src="~/images/gallery/03.jpg" alt="">
+                                <div class="media-links">
+                                    <div class="links-wrap"> <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="~/images/gallery/03.jpg"></a> </div>
+                                </div>
+                            </div>
+                            <div class="item-content">
+                                <header class="entry-header">
+                                    <div class="categories-links highlight2links"> <a class="#">Dental</a> </div>
+                                    <h4 class="entry-title topmargin_0">
+                                        <a class="#">
+                                            Pellentesque commodo
+                                        </a>
+                                    </h4>
+                                </header>
+                                <p> Vivamus enim justo, suscipit laoreet odio id, interdum egestas sapien. Phasellus ultricies felis lectus, sed condimentum libero condimentum eget. </p>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12 pharmacists">
+                        <article class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
+                            <div class="item-media">
+                                <img src="~/images/gallery/04.jpg" alt="">
+                                <div class="media-links">
+                                    <div class="links-wrap"> <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="~/images/gallery/04.jpg"></a> </div>
+                                </div>
+                            </div>
+                            <div class="item-content">
+                                <header class="entry-header">
+                                    <div class="categories-links highlightlinks"> <a class="#">Pharmacists</a> </div>
+                                    <h4 class="entry-title topmargin_0">
+                                        <a class="#">
+                                            Lorem ipsum
+                                        </a>
+                                    </h4>
+                                </header>
+                                <p> Vivamus enim justo, suscipit laoreet odio id, interdum egestas sapien. Phasellus ultricies felis lectus, sed condimentum libero condimentum eget. </p>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12 medical">
+                        <article class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
+                            <div class="item-media">
+                                <img src="~/images/gallery/05.jpg" alt="">
+                                <div class="media-links">
+                                    <div class="links-wrap"> <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="~/images/gallery/05.jpg"></a> </div>
+                                </div>
+                            </div>
+                            <div class="item-content">
+                                <header class="entry-header">
+                                    <div class="categories-links highlight2links"> <a class="#">Medical</a> </div>
+                                    <h4 class="entry-title topmargin_0">
+                                        <a class="#">
+                                            Sarmiento museum
+                                        </a>
+                                    </h4>
+                                </header>
+                                <p> Vivamus enim justo, suscipit laoreet odio id, interdum egestas sapien. Phasellus ultricies felis lectus, sed condimentum libero condimentum eget. </p>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12 clinic">
+                        <article class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
+                            <div class="item-media">
+                                <img src="~/images/gallery/06.jpg" alt="">
+                                <div class="media-links">
+                                    <div class="links-wrap"> <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="~/images/gallery/06.jpg"></a> </div>
+                                </div>
+                            </div>
+                            <div class="item-content">
+                                <header class="entry-header">
+                                    <div class="categories-links highlightlinks"> <a class="#">Clinic</a> </div>
+                                    <h4 class="entry-title topmargin_0">
+                                        <a class="#">
+                                            Proin imperdiet
+                                        </a>
+                                    </h4>
+                                </header>
+                                <p> Vivamus enim justo, suscipit laoreet odio id, interdum egestas sapien. Phasellus ultricies felis lectus, sed condimentum libero condimentum eget. </p>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12 dental">
+                        <article class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
+                            <div class="item-media">
+                                <img src="~/images/gallery/07.jpg" alt="">
+                                <div class="media-links">
+                                    <div class="links-wrap"> <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="~/images/gallery/07.jpg"></a> </div>
+                                </div>
+                            </div>
+                            <div class="item-content">
+                                <header class="entry-header">
+                                    <div class="categories-links highlight2links"> <a class="#">Dental</a> </div>
+                                    <h4 class="entry-title topmargin_0">
+                                        <a class="#">
+                                            Aenean varius
+                                        </a>
+                                    </h4>
+                                </header>
+                                <p> Vivamus enim justo, suscipit laoreet odio id, interdum egestas sapien. Phasellus ultricies felis lectus, sed condimentum libero condimentum eget. </p>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12 pharmacists">
+                        <article class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
+                            <div class="item-media">
+                                <img src="~/images/gallery/08.jpg" alt="">
+                                <div class="media-links">
+                                    <div class="links-wrap"> <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="~/images/gallery/08.jpg"></a> </div>
+                                </div>
+                            </div>
+                            <div class="item-content">
+                                <header class="entry-header">
+                                    <div class="categories-links highlightlinks"> <a class="#">Pharmacists</a> </div>
+                                    <h4 class="entry-title topmargin_0">
+                                        <a class="#">
+                                            Praesent eleifend
+                                        </a>
+                                    </h4>
+                                </header>
+                                <p> Vivamus enim justo, suscipit laoreet odio id, interdum egestas sapien. Phasellus ultricies felis lectus, sed condimentum libero condimentum eget. </p>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12 medical">
+                        <article class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
+                            <div class="item-media">
+                                <img src="~/images/gallery/09.jpg" alt="">
+                                <div class="media-links">
+                                    <div class="links-wrap"> <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="~/images/gallery/09.jpg"></a> </div>
+                                </div>
+                            </div>
+                            <div class="item-content">
+                                <header class="entry-header">
+                                    <div class="categories-links highlight2links"> <a class="#">Medical</a> </div>
+                                    <h4 class="entry-title topmargin_0">
+                                        <a class="#">
+                                            Phasellus volutpat
+                                        </a>
+                                    </h4>
+                                </header>
+                                <p> Vivamus enim justo, suscipit laoreet odio id, interdum egestas sapien. Phasellus ultricies felis lectus, sed condimentum libero condimentum eget. </p>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12 clinic">
+                        <article class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
+                            <div class="item-media">
+                                <img src="~/images/gallery/10.jpg" alt="">
+                                <div class="media-links">
+                                    <div class="links-wrap"> <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="~/images/gallery/10.jpg"></a> </div>
+                                </div>
+                            </div>
+                            <div class="item-content">
+                                <header class="entry-header">
+                                    <div class="categories-links highlightlinks"> <a class="#">Clinic</a> </div>
+                                    <h4 class="entry-title topmargin_0">
+                                        <a class="#">
+                                            Fusce a vestibulum
+                                        </a>
+                                    </h4>
+                                </header>
+                                <p> Vivamus enim justo, suscipit laoreet odio id, interdum egestas sapien. Phasellus ultricies felis lectus, sed condimentum libero condimentum eget. </p>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12 dental">
+                        <article class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
+                            <div class="item-media">
+                                <img src="~/images/gallery/11.jpg" alt="">
+                                <div class="media-links">
+                                    <div class="links-wrap"> <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="~/images/gallery/11.jpg"></a> </div>
+                                </div>
+                            </div>
+                            <div class="item-content">
+                                <header class="entry-header">
+                                    <div class="categories-links highlight2links"> <a class="#">Dental</a> </div>
+                                    <h4 class="entry-title topmargin_0">
+                                        <a class="#">
+                                            Vivamus suscipit
+                                        </a>
+                                    </h4>
+                                </header>
+                                <p> Vivamus enim justo, suscipit laoreet odio id, interdum egestas sapien. Phasellus ultricies felis lectus, sed condimentum libero condimentum eget. </p>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="isotope-item col-lg-4 col-md-6 col-sm-12 pharmacists">
+                        <article class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
+                            <div class="item-media">
+                                <img src="~/images/gallery/12.jpg" alt="">
+                                <div class="media-links">
+                                    <div class="links-wrap"> <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="~/images/gallery/12.jpg"></a> </div>
+                                </div>
+                            </div>
+                            <div class="item-content">
+                                <header class="entry-header">
+                                    <div class="categories-links highlightlinks"> <a class="#">Pharmacists</a> </div>
+                                    <h4 class="entry-title topmargin_0">
+                                        <a class="#">
+                                            Proin congue
+                                        </a>
+                                    </h4>
+                                </header>
+                                <p> Vivamus enim justo, suscipit laoreet odio id, interdum egestas sapien. Phasellus ultricies felis lectus, sed condimentum libero condimentum eget. </p>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center"> <img src="~/img/loading.png" alt="" class="fa-spin" /> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<PharmaProject.Models.Contact>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+  
+ 
+    <table class="table table-bordered">
+        <tr>
+            <th style="font-size:x-large" >
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th style="font-size:x-large">
+                @Html.DisplayNameFor(model => model.Email)
+            </>
+            <th style="font-size:x-large">
+                @Html.DisplayNameFor(model => model.Contact1)
+            </th>
+            <th style="font-size:x-large">
+                @Html.DisplayNameFor(model => model.Message)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td style="font-size:medium">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td style="font-size:medium">
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td style="font-size:medium">
+                    @Html.DisplayFor(modelItem => item.Contact1)
+                </td>
+                <td style="font-size:medium">
+                    @Html.DisplayFor(modelItem => item.Message)
+                </td>
+                <td style="font-size:medium">
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+
+        }
+
+
+    </table>
+
+
+         

@@ -1,0 +1,78 @@
+﻿@model IEnumerable<PharmaProject.Models.capsule>
+@{
+    ViewBag.Title = "Index";
+}
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+<div class="row">
+
+    @foreach (var item in Model)
+    {
+        
+
+            @*<section class="ls section_padding_top_150 section_padding_bottom_130">
+                <div class="container">
+                        <div class="isotope_container isotope row masonry-layout columns_margin_bottom_20">
+                            
+                                <div class="isotope-item col-md-4 col-sm-6">
+
+                                    <article class="vertical-item content-padding with_border rounded text-left">
+                                        <div class="item-media top_rounded overflow_hidden"> <img src="@Url.Content(item.pic)" width="100" height="100" alt=""> </div>
+                                        <div class="item-content">
+                                            <center><u><b><h3 style="color:rebeccapurple"> @item.Name</h3></b></u> </center>
+                                            <h5>
+                                                <b style="color:navy">Company Name:</b>  @item.company_name
+                                                <br /><br />
+                                                <b style="color:navy">Output:</b> @item.output
+                                                <br /><br />
+                                                <b style="color:navy">Size:</b> @item.size
+                                                <br /><br />
+                                                <b style="color:navy">Dimension:</b> @item.dimension
+                                                <br /><br />
+                                                <b style="color:navy">Shipping Weight:</b> @item.shipping_weight
+                                                <br /><br />
+                                                <b style="color:navy">Power:</b> @item.Power
+                                                <br /><br />
+
+                                            </h5>
+                                            <h4 style="color:crimson">Price: $@item.Price_</h4>
+
+                                        </div>
+                                    </article>
+                                </div>
+                         
+                        </div>
+                    </div>
+            </section>*@
+    <div class="isotope-item col-md-4 col-sm-6">
+        <article class="vertical-item content-padding with_border rounded text-left">
+            <div class="item-media top_rounded overflow_hidden"> <img src="@Url.Content(item.pic)" alt="" style="width:100%;height:300px"> </div>
+            <div class="item-content">
+                <center><u><b><h3 style="color:purple"> @item.Name</h3></b></u> </center>
+                <br />
+                <h5>
+                    <b style="color:navy">Company Name:</b>  @item.company_name
+                    <br /><br />
+                    <b style="color:navy">Output:</b> @item.output
+                    <br /><br />
+                    <b style="color:navy">Size:</b> @item.size
+                    <br /><br />
+                    <b style="color:navy">Dimension:</b> @item.dimension
+                    <br /><br />
+                    <b style="color:navy">Shipping Weight:</b> @item.shipping_weight
+                    <br /><br />
+                    <b style="color:navy">Power:</b> @item.Power
+                    <br /><br />
+
+                </h5>
+                <h4 style="color:crimson">Price: $@item.Price_</h4>
+            </div>
+        </article>
+    </div>
+
+
+    }
+    </div>
+
+   

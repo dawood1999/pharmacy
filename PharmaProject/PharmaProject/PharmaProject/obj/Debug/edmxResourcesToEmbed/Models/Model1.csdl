@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="pharmadbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="capsule">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="company_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="output" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="size" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="dimension" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="shipping_weight" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Power" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Price_" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="pic" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Liquid">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Air_pressure" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Air_volume" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Filling_speed" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Filling_range_" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="capacity_" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Price" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="img" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Tablets">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Model" Type="Int32" />
+    <Property Name="Dies" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Max_pressure" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Max_diameter" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Max_depth" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Production_capacity" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="machine_size" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="net_weight" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="power" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Price_" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="photo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="pharmadbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="capsule" EntityType="Self.capsule" />
+    <EntitySet Name="Liquid" EntityType="Self.Liquid" />
+    <EntitySet Name="Tablets" EntityType="Self.Tablets" />
+    <EntitySet Name="Job" EntityType="pharmadbModel.Job" />
+    <EntitySet Name="adlogin" EntityType="pharmadbModel.adlogin" />
+    <EntitySet Name="Table" EntityType="pharmadbModel.Table" />
+    <EntitySet Name="Contact" EntityType="pharmadbModel.Contact" />
+  </EntityContainer>
+  <EntityType Name="Job">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Father_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Email_Address" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Phone_number" Type="Int32" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DOB" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Qualification_" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Education" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Resume" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="adlogin">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Comapny" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Postal" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Country" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Phone" Type="Int32" />
+    <Property Name="Comments" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Contact">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Contact1" Type="Int32" />
+    <Property Name="Message" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

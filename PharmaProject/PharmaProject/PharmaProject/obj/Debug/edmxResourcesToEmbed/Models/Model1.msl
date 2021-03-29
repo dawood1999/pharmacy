@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="pharmadbModelStoreContainer" CdmEntityContainer="pharmadbEntities">
+    <EntitySetMapping Name="capsule">
+      <EntityTypeMapping TypeName="pharmadbModel.capsule">
+        <MappingFragment StoreEntitySet="capsule">
+          <ScalarProperty Name="pic" ColumnName="pic" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="company_name" ColumnName="company_name" />
+          <ScalarProperty Name="output" ColumnName="output" />
+          <ScalarProperty Name="size" ColumnName="size" />
+          <ScalarProperty Name="dimension" ColumnName="dimension" />
+          <ScalarProperty Name="shipping_weight" ColumnName="shipping_weight" />
+          <ScalarProperty Name="Power" ColumnName="Power" />
+          <ScalarProperty Name="Price_" ColumnName="Price " />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Liquid">
+      <EntityTypeMapping TypeName="pharmadbModel.Liquid">
+        <MappingFragment StoreEntitySet="Liquid">
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Air_pressure" ColumnName="Air_pressure" />
+          <ScalarProperty Name="Air_volume" ColumnName="Air_volume" />
+          <ScalarProperty Name="Filling_speed" ColumnName="Filling_speed" />
+          <ScalarProperty Name="Filling_range_" ColumnName="Filling_range " />
+          <ScalarProperty Name="capacity_" ColumnName="capacity " />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tablets">
+      <EntityTypeMapping TypeName="pharmadbModel.Tablets">
+        <MappingFragment StoreEntitySet="Tablets">
+          <ScalarProperty Name="photo" ColumnName="photo" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Dies" ColumnName="Dies" />
+          <ScalarProperty Name="Max_pressure" ColumnName="Max_pressure" />
+          <ScalarProperty Name="Max_diameter" ColumnName="Max_diameter" />
+          <ScalarProperty Name="Max_depth" ColumnName="Max_depth" />
+          <ScalarProperty Name="Production_capacity" ColumnName="Production_capacity" />
+          <ScalarProperty Name="machine_size" ColumnName="machine_size" />
+          <ScalarProperty Name="net_weight" ColumnName="net_weight" />
+          <ScalarProperty Name="power" ColumnName="power" />
+          <ScalarProperty Name="Price_" ColumnName="Price " />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Job">
+      <EntityTypeMapping TypeName="pharmadbModel.Job">
+        <MappingFragment StoreEntitySet="Job">
+          <ScalarProperty Name="Resume" ColumnName="Resume" />
+          <ScalarProperty Name="Education" ColumnName="Education" />
+          <ScalarProperty Name="Qualification_" ColumnName="Qualification " />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Phone_number" ColumnName="Phone_number" />
+          <ScalarProperty Name="Email_Address" ColumnName="Email_Address" />
+          <ScalarProperty Name="Father_Name" ColumnName="Father_Name" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="adlogin">
+      <EntityTypeMapping TypeName="pharmadbModel.adlogin">
+        <MappingFragment StoreEntitySet="adlogin">
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Table">
+      <EntityTypeMapping TypeName="pharmadbModel.Table">
+        <MappingFragment StoreEntitySet="Table">
+          <ScalarProperty Name="Comments" ColumnName="Comments" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="Postal" ColumnName="Postal" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Comapny" ColumnName="Comapny" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contact">
+      <EntityTypeMapping TypeName="pharmadbModel.Contact">
+        <MappingFragment StoreEntitySet="Contact">
+          <ScalarProperty Name="Message" ColumnName="Message" />
+          <ScalarProperty Name="Contact1" ColumnName="Contact" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
